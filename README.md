@@ -1,8 +1,8 @@
 # vpsfree-py
 一键安装
-
+```
 bash <(curl -l -s https://raw.githubusercontent.com/lz9870/vpsfree-py/refs/heads/main/start.sh)
-
+```
 
 Releases
 
